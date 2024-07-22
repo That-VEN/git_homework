@@ -1,0 +1,13 @@
+body{
+    background-color: rgb(241, 241, 184);
+}
+h1,h2,p{
+    color: red;
+}
+ul{
+  background-color: rgb(23, 236, 23); 
+  color: blue;
+}
+ul li q{
+    font-family: fantasy;
+}
